@@ -36,9 +36,9 @@ body {
 }
 
 .card.flipped {
-    background-color: #fff;
+    background-color: #fff; 
     color: #333;
-}
+} 
 
 .card.matched {
     background-color: #6aaa64; /* Green */

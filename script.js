@@ -22,7 +22,7 @@ let lockBoard = false;
 
 */
 function initGame() {
-    document.getElementById("game-board").innerHTML = "";
+    document.getElementById("game-board").innerHTML = ""; 
     
     for (let i = 0; i < 2; i++){
         shuffleArray(symbols);
